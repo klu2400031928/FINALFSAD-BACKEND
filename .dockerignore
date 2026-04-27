@@ -1,0 +1,11 @@
+target/
+*.class
+*.jar
+*.war
+.mvn/
+mvnw
+mvnw.cmd
+.gitignore
+Dockerfile
+.dockerignore
+.DS_Store
